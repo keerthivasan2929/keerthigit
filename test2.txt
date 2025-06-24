@@ -1,1 +1,5 @@
-hi
+public class demo{
+public static void main(String a[]){
+System.out.println("hey n1gga");
+}
+}
